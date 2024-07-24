@@ -18,6 +18,7 @@ The VU Chatbot System is an advanced AI-powered virtual assistant designed to en
 **3- Multi-Platform Support:**: Integrate seamlessly with various platforms including web, mobile, and social media.
 
 **4- Extensible Architecture:**: Easily add new features and functionalities with our modular design.
+
 **5- Real-Time Analytics:**: Monitor and analyze user interactions to continually improve the chatbot experience..
 
 ## **Contributing🙌**
