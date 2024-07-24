@@ -114,8 +114,6 @@ Star this repo if you find it useful ⭐
 
 <details> 
 <summary> <h2>📚Chapter 02 -Model metrics benchmarks </h2> </summary>
-
-## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
 |   | f1  | precision  |  recall |  accuracy | training_time  |  inference_time |
 |---|---|---|---|---|---|---|
 | NB	| 0.830188679245283	| 0.8461538461538461| 0.8148148148148148| 0.8085106382978723	| 0.0032272338867187	| 0.0007801055908203|
