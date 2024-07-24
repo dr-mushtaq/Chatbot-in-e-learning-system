@@ -41,7 +41,7 @@ Thank you for choosing VU Chatbot System! Together, let's make conversations sma
 Star this repo if you find it useful ⭐
 
 <details> 
-<summary> <h2>📚Chapter: 1  - **Literature Review** </h2> </summary>
+<summary> <h2>📚Chapter: 1  -Literature Review</h2> </summary>
 
 ## 📚Section: 1  - **Saman**
  
