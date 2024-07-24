@@ -11,8 +11,6 @@ The VU Chatbot System is an advanced AI-powered virtual assistant designed to en
 
 ## **Features👋🛒**
 
-Extensive Algorithm Coverage: Explore a wide range of ML algorithms, including but not limited to linear regression, decision trees, support vector machines, neural networks, clustering techniques, and more.
-
 **1- Natural Language Processing:** Engage in smooth, human-like conversations with our state-of-the-art NLP capabilities.
 
 **2- Personalized Assistance**: Receive personalized responses based on user profiles and interaction history.
