@@ -22,22 +22,21 @@ Extensive Algorithm Coverage: Explore a wide range of ML algorithms, including b
 **4- Extensible Architecture:**: Easily add new features and functionalities with our modular design.
 **5- Real-Time Analytics:**: Monitor and analyze user interactions to continually improve the chatbot experience..
 
-
-**4- Contents**
-Algorithms: Implementation examples of various ML algorithms, organized for easy navigation and reference.
-
-**5- Techniques:** Practical demonstrations of ML techniques, such as feature engineering, model evaluation, hyperparameter tuning, and more.
-
 ## **Contributing🙌**
 
 We welcome contributions from the community! Whether it's fixing a bug, adding a new algorithm implementation, or improving documentation, your contributions are valuable. Please contact on my **skype ID: themushtaq48** for guidelines on how to contribute.
 
-## **📬 Contact**
-   
-   If you want to contact me, you can reach me through social handles.
+## **📬 Support**
+   If you encounter any issues or have questions, feel free to open an issue on GitHub or contact us at mushtaqmsit@gmail.com.
 
-   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hussain0048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/company/90909828/admin/feed/posts/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/CourseTeach)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/hussain0048)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://coursesteach.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>]( 0000-0002-7238-7924)
+## **📬 Stay Connected**
 
+Website: vu-chatbot.com
+Twitter: @vu_chatbot
+Facebook: VU Chatbot
+LinkedIn: VU Chatbot
+
+Thank you for choosing VU Chatbot System! Together, let's make conversations smarter and more engaging. 🌟
 
 🙏 Special thanks 🙏 to our Virtual University of Pakistan students, reviewers, and content contributors, notably Dr Said Nabi
 
