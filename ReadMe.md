@@ -114,6 +114,9 @@ Star this repo if you find it useful ⭐
 
 <details> 
 <summary> <h2>📚Chapter 02 -Model metrics benchmarks </h2> </summary>
+
+   ##  📚Chapter: 3  **Model metrics benchmarks**
+
 |   | f1  | precision  |  recall |  accuracy | training_time  |  inference_time |
 |---|---|---|---|---|---|---|
 | NB	| 0.830188679245283	| 0.8461538461538461| 0.8148148148148148| 0.8085106382978723	| 0.0032272338867187	| 0.0007801055908203|
@@ -122,7 +125,7 @@ Star this repo if you find it useful ⭐
 | SVM	| 0.8518518518518519	| 0.8846153846153846	| 0.8214285714285714	| 0.8297872340425532| 0.0274648666381835	| 0.0030479431152343|
 | XGBoost	| 0.9122807017543859	| 1.0	| 0.8387096774193549	| 0.8936170212765957| 0.241973876953125| 0.0040738582611083984|
 | RoBERTa| 0.9230769230769231| 0.9230769230769231| 0.9230769230769231	| 0.9148936170212766| 24968.250607967377| 68.44634509086609|
-</details>
+
 
 <details> 
 <summary> <h2>Course 03 - 📚Supervised Learning with scikit_learn </h2> </summary>
