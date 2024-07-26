@@ -5,6 +5,9 @@
 
 Welcome to the VU Chatbot System repository! 🚀
 
+<a href="https://app.commanddash.io/agent?github=<https://github.com/hussain0048/VU-Chatbot-System>"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
+
+
 ## **Overview👋🛒**
 
 The VU Chatbot System is an advanced AI-powered virtual assistant designed to enhance user interaction and streamline information retrieval. Whether you're a student, educator, or developer, our chatbot provides intuitive and efficient solutions tailored to your needs.
