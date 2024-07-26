@@ -291,6 +291,9 @@ Explore cutting-edge tools and Python libraries, access insightful slides and so
 * [**Supervised learning with scikit-learn**](https://coursesteach.com/enrol/index.php?id=21)
 * [**Fundamental of Machine Learning**](https://coursesteach.com/enrol/index.php?id=6)
 
+<a href="https://app.commanddash.io/agent?github=<your github repo>"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
+
+
 
 ## **✨Top Contributors**
 We would love your help in making this repository even better! If you know of an amazing AI course that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
