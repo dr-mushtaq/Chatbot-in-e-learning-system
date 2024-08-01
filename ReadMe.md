@@ -63,7 +63,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>📚Chapter 02 -Model metrics benchmarks </h2> </summary>
+<summary> <h2>📚Chapter: 02 -Model metrics benchmarks </h2> </summary>
 
    ##  📚Chapter: 3  **Model metrics benchmarks**
 
@@ -118,7 +118,7 @@ Star this repo if you find it useful ⭐
 
 
 <details> 
-<summary> <h2>Course 01 - 🗞️📚Chapter:5  -Resources </h2> </summary>
+<summary> <h2>📚Chapter:5-Resources </h2> </summary>
    
    - [**4 Chatbot Project with python**](https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37)
    - [**Awesome Chatbot Projects**](https://github.com/fendouai/Awesome-Chatbot)
