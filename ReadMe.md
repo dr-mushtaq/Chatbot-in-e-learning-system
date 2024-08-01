@@ -150,7 +150,6 @@ Star this repo if you find it useful ⭐
    - [**4 Chatbot Project with python**](https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37)
    - [**Awesome Chatbot Projects**](https://github.com/fendouai/Awesome-Chatbot)
    - [**The Super Duper NLP Repo**](https://notebooks.quantumstat.com/?trk=puboslic_pt-text)
-   </details>
 
 
  * [**Association Mining**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Association%20Mining)
