@@ -79,7 +79,7 @@ Star this repo if you find it useful ⭐
 
 
 <details> 
-<summary> <h2>Course 03 - 📚Implementation </h2> </summary>
+<summary> <h2>📚Chapter: 3 - 📚Implementation </h2> </summary>
  
   ## 📚Chapter:1-**Classification**
 | Topic Name/Tutorial | Video | Code |
