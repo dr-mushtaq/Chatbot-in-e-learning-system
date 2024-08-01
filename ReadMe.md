@@ -61,17 +61,16 @@ Star this repo if you find it useful ⭐
 |**🌐9- Chatbot : A Question Answering System for Student** | 2021|It suggests the research question that  revolves around developing a chatbot system that effectively functions as a question answering system for students.|N/A|N/A|Paper discusses the design and development of such a chatbot, including the challenges of creating a system that can understand and answer student queries effectively.|
 |**🌐10-QAM: Question Answering System Based on Knowledge Graph in the Military** | 2020|How can a knowledge graph-based Question Answering System (QAM) be effectively designed to be used in the military domain?|N/A|Slice of words not included in the JIEBA will be divide, which cause that the following steps can’t accuracy judged. And some unclear words often led to the system failed to judge the right answer and return a wrong answer to the user.|Research used the tool of NEO4J to build the military KG as well python to construct QA system|
 
-   
- ## 📚Chapter: 2 -**Linear Regression with one Variable**
- |Topic Name/Tutorial | Video | Code |
-|---|---|---|
-|[**🌐Model Representation**](https://medium.com/@Coursesteach/machine-learning-part-4-97c4b6adcda)|[**1**](https://drive.google.com/file/d/1nPB_82i53TjCjU172HI-bmvQ75etA_X1/view?usp=sharing)[-2](https://www.youtube.com/watch?v=Vx2DpMgplEM)|---|
-| **🌐1-Simple Linear Regression using sklearn(Lab1)**| --- |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)|
-| **🌐2-Simple Linear Regression with python-Andrew** | --- |[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Andrew_Linear_Regression_Exercise_1_By_Fida_Mohammad.ipynb)|
-|[**🌐Understanding the Linear Regression Cost Function(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-5-e006907b7875)|[1](https://drive.google.com/file/d/1vSBf6rM-jLTaMOh2R6UttashE3wBLKY9/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐What the cost function is doing?(Tutorial)**](https://medium.com/@Coursesteach/machine-learning-part-6-663e94ab5607)|[1](https://drive.google.com/file/d/1N7kVZrfcgcEJTuDBwj7HkBMXaqpWMauk/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐Understanding Gradient Descent**](https://medium.com/@Coursesteach/machine-learning-part-7-53ecede8ef81)|[1](https://drive.google.com/file/d/1-FRhC1FT0YalQY6sfcV9zneOcx_TtRpD/view)[-2](https://drive.google.com/file/d/1FGVKKVvgrpz7E7vlgsQKbwARm1QjXQVs/view)[-3](https://www.youtube.com/watch?v=iudXf5n_3ro&list=PLqwozWPBo-FtNyPKLDPTVDOHwK12QbVsM)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐Gradient Descent For Linear Regression**](https://medium.com/@Coursesteach/machine-learning-part-9-6fbb87ea072b)|[1](https://drive.google.com/file/d/1V5O7ThKwngM8903xqrg2HOh6_xy_FyJ7/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+##  📚Chapter: 3  **Model metrics benchmarks**
+
+|   | f1  | precision  |  recall |  accuracy | training_time  |  inference_time |
+|---|---|---|---|---|---|---|
+| NB	| 0.830188679245283	| 0.8461538461538461| 0.8148148148148148| 0.8085106382978723	| 0.0032272338867187	| 0.0007801055908203|
+| LR	| 0.8518518518518519	| 0.8846153846153846	| 0.8214285714285714| 0.8297872340425532| 0.0356471538543701| 0.0002150535583496|
+| KNN	| 0.7058823529411765| 0.6923076923076923| 0.72|	0.6808510638297872|	0.0005688667297363	| 0.0972669124603271|
+| SVM	| 0.8518518518518519	| 0.8846153846153846	| 0.8214285714285714	| 0.8297872340425532| 0.0274648666381835	| 0.0030479431152343|
+| XGBoost	| 0.9122807017543859	| 1.0	| 0.8387096774193549	| 0.8936170212765957| 0.241973876953125| 0.0040738582611083984|
+| RoBERTa| 0.9230769230769231| 0.9230769230769231| 0.9230769230769231	| 0.9148936170212766| 24968.250607967377| 68.44634509086609|
  
  ## 📚Chapter: 3 -**Linear Algebra**
  | Topic Name/Tutorial | Video | Code |
