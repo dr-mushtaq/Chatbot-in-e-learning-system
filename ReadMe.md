@@ -88,10 +88,12 @@ Star this repo if you find it useful ⭐
 |[**2021-Selection of the Right Undergraduate Major by Students Using Supervised Learning Techniques**](https://www.mdpi.com/2076-3417/11/22/10639)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/Selection_of_the_Right_Undergraduate_Major_.ipynb)|[Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)|---|
 | [**2022-Machine Learning-Driven Approach for a COVID-19 Warning System**](https://www.mdpi.com/2079-9292/11/23/3875) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/5_13_2020_Covid_LSTM.ipynb) [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/AR_and_ARIMA_Models.ipynb) | [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/data_cases1.csv) |---|
 
-## 📚Chapter:2-**Regression**
-| Topic Name/Tutorial | Video | Code |
-|---|---|---|
-| [**🌐1-Regression in scikit-learn**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-5-preprocessing-in-machine-learning-fa5b8bcb2d49) | [1](https://drive.google.com/file/d/11hqhqQMIu52nD9OcEpi5iVPD-sRjBVL6/view)[-2](https://drive.google.com/file/d/1v30FmQ2LUlUrfc3YpDT7h3CPQnTS0us_/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb) |
+## 📚Chapter: 4  - **Apps Details**
+ 
+|Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
+|---|---|---|---|---|---|---|---|
+|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
+
 
 ## 📚Chapter:3-**Data Preprocessing and Pipelines**
 | Topic Name/Tutorial | Video | Code |
