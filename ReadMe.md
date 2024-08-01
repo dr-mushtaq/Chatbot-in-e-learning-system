@@ -145,11 +145,14 @@ Star this repo if you find it useful ⭐
 |[**🌐3-Handling missing data**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-7-handling-missing-data-b1b6263ce996)|[1](https://drive.google.com/file/d/1dN_YRnwuUf8QpUWeSnLEqHm-PtIWoPuF/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 </details>
 
+
 <details> 
 <summary> <h2>Course 01 - 🗞️📚Chapter: 3  - **Resources </h2> </summary>
+   
    - [**4 Chatbot Project with python**](https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37)
    - [**Awesome Chatbot Projects**](https://github.com/fendouai/Awesome-Chatbot)
    - [**The Super Duper NLP Repo**](https://notebooks.quantumstat.com/?trk=puboslic_pt-text)
+</details>
 
 
  * [**Association Mining**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Association%20Mining)
