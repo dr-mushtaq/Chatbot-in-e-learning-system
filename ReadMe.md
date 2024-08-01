@@ -60,38 +60,6 @@ Star this repo if you find it useful ⭐
 |**🌐8- Question Answering Model Based Conversational Chatbot using BERT Model and Google Dialogflow** | 2021 |N/A|N/A|The focus might be on question answering. Future research could explore integrating functionalities like sentiment analysis to tailor responses to user emotions or incorporating functionalities for completing tasks beyond just answering questions.|The focus of the paper seems to be on building and demonstrating the feasibility of a question-answering chatbot using BERT and Dialogflow. It describes the architecture and functionalities of the chatbot|
 |**🌐9- Chatbot : A Question Answering System for Student** | 2021|It suggests the research question that  revolves around developing a chatbot system that effectively functions as a question answering system for students.|N/A|N/A|Paper discusses the design and development of such a chatbot, including the challenges of creating a system that can understand and answer student queries effectively.|
 |**🌐10-QAM: Question Answering System Based on Knowledge Graph in the Military** | 2020|How can a knowledge graph-based Question Answering System (QAM) be effectively designed to be used in the military domain?|N/A|Slice of words not included in the JIEBA will be divide, which cause that the following steps can’t accuracy judged. And some unclear words often led to the system failed to judge the right answer and return a wrong answer to the user.|Research used the tool of NEO4J to build the military KG as well python to construct QA system|
-
-##  📚Chapter: 3  **Model metrics benchmarks**
-
-|   | f1  | precision  |  recall |  accuracy | training_time  |  inference_time |
-|---|---|---|---|---|---|---|
-| NB	| 0.830188679245283	| 0.8461538461538461| 0.8148148148148148| 0.8085106382978723	| 0.0032272338867187	| 0.0007801055908203|
-| LR	| 0.8518518518518519	| 0.8846153846153846	| 0.8214285714285714| 0.8297872340425532| 0.0356471538543701| 0.0002150535583496|
-| KNN	| 0.7058823529411765| 0.6923076923076923| 0.72|	0.6808510638297872|	0.0005688667297363	| 0.0972669124603271|
-| SVM	| 0.8518518518518519	| 0.8846153846153846	| 0.8214285714285714	| 0.8297872340425532| 0.0274648666381835	| 0.0030479431152343|
-| XGBoost	| 0.9122807017543859	| 1.0	| 0.8387096774193549	| 0.8936170212765957| 0.241973876953125| 0.0040738582611083984|
-| RoBERTa| 0.9230769230769231| 0.9230769230769231| 0.9230769230769231	| 0.9148936170212766| 24968.250607967377| 68.44634509086609|
-
-## 📚Chapter: 5 -**Logistic Regression**
- |Topic Name/Tutorial | Video | Code |
-|---|---|---|
-|[**🌐1-Classification**](https://medium.com/@Coursesteach/machine-learning-part-22-classification-b296f4c7dee4)|[**1**](https://drive.google.com/file/d/1ZTE9BwGg5kvKGPQNxObHJDyeipM6-VL8/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐2-Hypothesis Representation of Logistic Regression**](https://medium.com/@Coursesteach/machine-learning-part-23-hypothesis-representation-of-logistic-regression-055e0b7cd99b)|[**1**](https://drive.google.com/file/d/1nknhstSW9bmgA6lJNo2ealsyabk4i9_x/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐3-Decision Boundary**](https://medium.com/@Coursesteach/machine-learning-part-24-decision-boundary-bb60aff7a67d)|[**1**](https://drive.google.com/file/d/1KwzCccx2rwCBJSahz0sKFiB8hManNwHp/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐4-The Cost Function in Logistic Regression**](https://medium.com/@Coursesteach/machine-learning-part-25-the-cost-function-in-logistic-regression-52d9a071df5c)|[**1**](https://drive.google.com/file/d/18SJy-6jlT_cIZEMqQFwc7Mo1GDwDvC1G/view)[-2](https://www.youtube.com/watch?v=AM6BY4btj-M&list=PLqwozWPBo-FuPu4d9pFOobsCF1vDGdY_I)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐5-Simplified Cost Function and Gradient Descent**](https://medium.com/@Coursesteach/machine-learning-part-26-the-cost-function-in-logistic-regression-bfdac2557eb0)|[**1**](https://drive.google.com/file/d/1KQNr7EHCh7JFsKX3VYfnJ_-JGuFFZJqk/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐6-Advanced Optimization**](https://medium.com/@Coursesteach/machine-learning-part-27-advanced-optimization-a751820111b3)|[**1**](https://drive.google.com/file/d/1KQNr7EHCh7JFsKX3VYfnJ_-JGuFFZJqk/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐7-Multiclass Classification — One-vs-all**](https://medium.com/@Coursesteach/machine-learning-part-28-multiclass-classification-one-vs-all-f9dc5d0febbc)|[**1**](https://drive.google.com/file/d/1aXQ5dWJ-LUK2f5IpObR5I7-caSOqQq-O/view)[-2](https://www.youtube.com/watch?v=E_mN90TYnlg)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐8-Difference Between Linear Regression and Logistic Regression**](https://medium.com/@Coursesteach/machine-learning-part-29-multiclass-classification-difference-between-linear-regression-and-407ff5be2f29)|[**1**](https://www.youtube.com/watch?v=4Wb1Apftkx4)|--|
-
-## 📚Chapter: 6 -**Regularization**
- |Topic Name/Tutorial | Video | Code |
-|---|---|---|
-|[**🌐1-The problem of overfitting**](https://medium.com/@Coursesteach/machine-learning-part-30-the-problem-of-overfitting-a957f68d0512)|[**1**](https://drive.google.com/file/d/12fTU40hOBNqeuBRtl-mGenm_bpRGcxH_/view)[-2](https://drive.google.com/file/d/13bQnb9hky0xbbxAq0JseUSaSUilLEvUM/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐2-Cost Function and Regularization**](https://medium.com/@Coursesteach/machine-learning-part-31-cost-function-and-regularization-4ab26dc6c7eb)|[**1**](https://drive.google.com/file/d/1oEYWClAvVE_QUIkbC0SaLcP1mzvD-Luz/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐3-Regularized Linear Regression**](https://medium.com/@Coursesteach/machine-learning-part-32-regularized-linear-regression-9aaae2f83e1d)|[**1**](https://drive.google.com/file/d/1QF1OSVpHlktZ3O8959n3Qm1tPicPJvzV/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐4-Regularized Logistic Regression**](https://medium.com/@Coursesteach/machine-learning-part-33-regularized-logistic-regression-72e0c863c5e9)|[**1**](https://drive.google.com/file/d/19v0aIvEysNi0LYhTLI5hYwA0NNv9n7LW/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-</details>
 </details>
 
 <details> 
