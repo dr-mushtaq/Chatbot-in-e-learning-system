@@ -77,17 +77,6 @@ Star this repo if you find it useful ⭐
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
-
- ## 📚Chapter: 4 -**Linear Regression with Multiple Variable**
- | Topic Name/Tutorial | Video | Code |
-|---|---|---|
-|[**🌐1-Multiple Features(multivariate linear regression)**](https://medium.com/@Coursesteach/machine-learning-part-16-multiple-features-9126a2fff727)|[**1**](https://drive.google.com/file/d/1Rlp4wdk8gEWPx1IsptP3J6tI2jBEco7w/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐2-Gradient Descent for Multiple Variables**](https://medium.com/@Coursesteach/machine-learning-part-17-gradient-descent-for-multiple-variables-1048c2ea5301)|[**1**](https://drive.google.com/file/d/1j_UwQ4eANaTykSFKhD8EF2bYIg8KAQ7t/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐3-Gradient Descent in Practice I — Feature Scaling**](https://medium.com/@Coursesteach/machine-learning-part-18-gradient-descent-in-practice-i-feature-scaling-f6d1d9d90060)|[**1**](https://drive.google.com/file/d/16cUqUN_vRLltU7gZNudJH5IGKXp051eg/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐4-Gradient Descent in Practice II — Learning Rate**](https://medium.com/@Coursesteach/machine-learning-part-19-gradient-descent-in-practice-ii-learning-rate-92b4b7d64906)|[**1**](https://drive.google.com/file/d/1vsy9X5E8H0K68YcBO1CYsZAFVfaTD1Ao/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐5-Features and Polynomial Regression**](https://medium.com/@Coursesteach/machine-learning-part-20-features-and-polynomial-regression-b999d3ac0226)|[**1**](https://drive.google.com/file/d/1fKO6dIg8FS33ZUig9St2U-BNIHbJ4AnI/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-|[**🌐6-Normal Equation**](https://medium.com/@Coursesteach/machine-learning-part-21-normal-equation-9ab2baebc37b)|[**1**](https://drive.google.com/file/d/17uMIs0mHGrH75iicAG0QYtFav1GXcLhp/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
-
 ## 📚Chapter: 5 -**Logistic Regression**
  |Topic Name/Tutorial | Video | Code |
 |---|---|---|
