@@ -81,21 +81,21 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>📚Chapter: 3 - 📚Implementation </h2> </summary>
  
-  ## 📚Chapter:1-**Model Training**
+  ## 📚Chapter:3.1-**Model Training**
   
 | Title | Code | Dataset |
 |---|---|---|
 |[**2021-Selection of the Right Undergraduate Major by Students Using Supervised Learning Techniques**](https://www.mdpi.com/2076-3417/11/22/10639)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/Selection_of_the_Right_Undergraduate_Major_.ipynb)|[Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)|---|
 | [**2022-Machine Learning-Driven Approach for a COVID-19 Warning System**](https://www.mdpi.com/2079-9292/11/23/3875) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/5_13_2020_Covid_LSTM.ipynb) [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/AR_and_ARIMA_Models.ipynb) | [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/data_cases1.csv) |---|
 
-## 📚Chapter: 4  - **Apps Details**
+## 📚Chapter:3.2- **Apps Details**
  
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
 
-## 📚Chapter:3-**Tools and Techniques Details**
+## 📚Chapter:3.3-**Tools and Techniques Details**
 | Topic Name/Tutorial | Video | Code |
 |---|---|---|
 | [**🌐-1-Preprocessing in Machine Learning**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-4-501068cf021) | [1](https://drive.google.com/file/d/14MyKUWqykavcOp2MNIgQjGVU1TOyqwGg/view) [-2](https://drive.google.com/file/d/19Sx937C_K5JWQYvdv7h2J2aRdiHiucAS/view?usp=sharing)| |
@@ -118,7 +118,7 @@ Star this repo if you find it useful ⭐
 
 
 <details> 
-<summary> <h2>Course 01 - 🗞️📚Chapter: 3  -Resources </h2> </summary>
+<summary> <h2>Course 01 - 🗞️📚Chapter:5  -Resources </h2> </summary>
    
    - [**4 Chatbot Project with python**](https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37)
    - [**Awesome Chatbot Projects**](https://github.com/fendouai/Awesome-Chatbot)
