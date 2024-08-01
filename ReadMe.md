@@ -147,9 +147,11 @@ Star this repo if you find it useful ⭐
 
 <details> 
 <summary> <h2>Course 01 - 🗞️📚Chapter: 3  - **Resources </h2> </summary>
- - [**4 Chatbot Project with python**](https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37)
+   - [**4 Chatbot Project with python**](https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37)
    - [**Awesome Chatbot Projects**](https://github.com/fendouai/Awesome-Chatbot)
    - [**The Super Duper NLP Repo**](https://notebooks.quantumstat.com/?trk=puboslic_pt-text)
+   </details>
+
 
  * [**Association Mining**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Association%20Mining)
    *  [Apriori_Algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Association%20Mining/Apriori_Algorithm%20(1).ipynb)
