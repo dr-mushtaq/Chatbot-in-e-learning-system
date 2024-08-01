@@ -72,15 +72,11 @@ Star this repo if you find it useful ⭐
 | XGBoost	| 0.9122807017543859	| 1.0	| 0.8387096774193549	| 0.8936170212765957| 0.241973876953125| 0.0040738582611083984|
 | RoBERTa| 0.9230769230769231| 0.9230769230769231| 0.9230769230769231	| 0.9148936170212766| 24968.250607967377| 68.44634509086609|
  
- ## 📚Chapter: 3 -**Linear Algebra**
- | Topic Name/Tutorial | Video | Code |
-|---|---|---|
-| [**🌐1-Understanding Matrices and Vectors in Linear Algebra**](https://medium.com/@Coursesteach/machine-learning-part-10-1173d7fc1338) | [**1**](https://drive.google.com/file/d/1Dn6rxY22AQ5869wSa0J99BlGsYFWQ2Wp/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb) |
-| [**🌐2-Understanding Addition and Scalar Multiplication of Matrices**](https://medium.com/@Coursesteach/machine-learning-part-11-33d53c690786) |[**1**](https://drive.google.com/file/d/1PTWX7HtVG0qT3NiCcykFYT6aMiJHteWQ/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb) |
-|[🌐3-**Matrix-Vector Multiplication**](https://medium.com/@Coursesteach/machine-learning-part-12-9584cdcc5b73)|[**1**](https://drive.google.com/file/d/1iRdhc_kqCI9jvDvR4Y6eVT8zR_-wBNhX/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
-|[**🌐4-Matrix-Matrix Multiplication**](https://medium.com/@Coursesteach/machine-learning-part-13-a908e15b7a73)| [**1**](https://drive.google.com/file/d/1TNBDxXUvkxOiIlUEdlieb2Teuaoi0RnU/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
-|[**🌐5-Matrix multiplication Properties**](https://medium.com/@Coursesteach/machine-learning-part-14-b8fefd968061)|[**1**](https://drive.google.com/file/d/1mUe1koBOu90luI8j1Sj-oJSR1xuQJIIj/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
-|[**🌐6-Inverse and Transpose**](https://medium.com/@Coursesteach/machine-learning-part-15-inverse-and-transpose-f4cda2687830)|[**1**](https://drive.google.com/file/d/1CmeQYER6X4yLwwmUEwn7-Upfgz3TQqy1/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Natural-language-processing/blob/main/Lab1_Linear_algebra_in_Python_with_Numpy.ipynb)|
+## 📚Chapter: 4  - **Apps Details**
+ 
+|Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
+|---|---|---|---|---|---|---|---|
+|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
  ## 📚Chapter: 4 -**Linear Regression with Multiple Variable**
  | Topic Name/Tutorial | Video | Code |
