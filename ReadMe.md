@@ -71,12 +71,7 @@ Star this repo if you find it useful ⭐
 | SVM	| 0.8518518518518519	| 0.8846153846153846	| 0.8214285714285714	| 0.8297872340425532| 0.0274648666381835	| 0.0030479431152343|
 | XGBoost	| 0.9122807017543859	| 1.0	| 0.8387096774193549	| 0.8936170212765957| 0.241973876953125| 0.0040738582611083984|
 | RoBERTa| 0.9230769230769231| 0.9230769230769231| 0.9230769230769231	| 0.9148936170212766| 24968.250607967377| 68.44634509086609|
- 
-## 📚Chapter: 4  - **Apps Details**
- 
-|Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
-|---|---|---|---|---|---|---|---|
-|[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
+
 ## 📚Chapter: 5 -**Logistic Regression**
  |Topic Name/Tutorial | Video | Code |
 |---|---|---|
@@ -151,31 +146,10 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>Course 01 - 🗞️📚Other Best Free Resources to Learn Machine learning </h2> </summary>
-  
-  - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
-  - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
-  - [**KNN with Python**](https://github.com/hussain0048/Machine-Learning/blob/master/KNN_with_Python_.ipynb)
-  - [**Build Machine Learning Pipelines**](https://github.com/hussain0048/Machine-Learning/blob/master/Build_Machine_Learning_Pipelines.ipynb)
-  - [**Simple_Linear_Regression_using_scikit_learn**](https://github.com/hussain0048/Machine-Learning/blob/master/Simple_Linear_Regression_using_scikit_learn.ipynb)
-  - [**Linear_Regression_Andrew**](https://github.com/hussain0048/Machine-Learning/blob/master/Linear_Regression_Andrew.ipynb)
-  -  [**Supervised_(Classification)_ML_Model_Training_and_Evulation**](https://colab.research.google.com/github/hussain0048/Machine-Learning/blob/master/Supervised_(Classification)_ML_Model_Training_and_Evulation_.ipynb#scrollTo=uOu2ttBhIqPr)
-  - [Reg-NoneLinearRegression-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-NoneLinearRegression-py-v1.ipynb)
-  - [Reg-Polynomial-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Polynomial-Regression-Co2-py-v1.ipynb)
-  - [Reg-Simple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Simple-Linear-Regression-Co2-py-v1.ipynb)
-  - [Clas-Decision-Trees-drug-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Clas-Decision-Trees-drug-py-v1.ipynb)
-  - [Clas-K-Nearest-neighbors-CustCat-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Clas-K-Nearest-neighbors-CustCat-py-v1.ipynb)
-  - [Voting_Classifiers.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Voting_Classifiers.ipynb)
-  - [Perceptron in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Perceptron_in_Machine_Learning.ipynb)
-  - [Decision_Trees](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Decision_Trees.ipynb)
-  - [Linear_Regression](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Linear_Regression_.ipynb)
-  - [XGBoost_in_Machine_Learning.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/XGBoost_in_Machine_Learning.ipynb)
-  - [Model_Evaluation_&_Scoring_Matrices](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Model_Evaluation_%26_Scoring_Matrices%20(1).ipynb)
-  - [Naive Bayes Algorithm in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_Algorithm_in_Machine_Learning.ipynb)
-  - [Naive_Bayes](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Naive_Bayes_.ipynb)
-  - [Nerual Networks](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Neural_Network.ipynb)
-  - [**Supervised_learning_with_Sklearn**](https://github.com/hussain0048/Machine-Learning/blob/master/1_28_2020_Supervised_learning_with_Sklearn.ipynb)
-  - [PyCaret in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/PyCaret_in_Machine_Learning.ipynb)
+<summary> <h2>Course 01 - 🗞️📚Chapter: 3  - **Resources </h2> </summary>
+ - [**4 Chatbot Project with python**](https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37)
+   - [**Awesome Chatbot Projects**](https://github.com/fendouai/Awesome-Chatbot)
+   - [**The Super Duper NLP Repo**](https://notebooks.quantumstat.com/?trk=puboslic_pt-text)
 
  * [**Association Mining**](https://github.com/hussain0048/Machine-Learning/tree/master/Sklearn/Association%20Mining)
    *  [Apriori_Algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Association%20Mining/Apriori_Algorithm%20(1).ipynb)
