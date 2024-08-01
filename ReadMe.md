@@ -82,10 +82,11 @@ Star this repo if you find it useful ⭐
 <summary> <h2>📚Chapter: 3 - 📚Implementation </h2> </summary>
  
   ## 📚Chapter:1-**Classification**
-| Topic Name/Tutorial | Video | Code |
+  
+| Paper | Code | Dataset |
 |---|---|---|
-|[**🌐1-Classification (Supervised Learning)-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-2-5acfda574e82)|[**1**](https://drive.google.com/file/d/1VYi0vfID3gu99TnTxIyJidhb_oqU8JbR/view)[**2**](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view)[**3**](https://drive.google.com/file/d/1N4569RvW9R9pdNit6rsVQBvdFtgz8P6_/view?usp=sharing)[**4**](https://drive.google.com/file/d/1JFvHyfcQuvrQfmHUWQLRjwuAeLRjesGc/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb)|
-| [**🌐2-Classification using Scikit-Learn-Tutorial**](https://medium.com/@Coursesteach/guide-to-supervised-learning-with-scikit-learn-part-3-c31b01c547f9)| [1](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
+|[**2021-Selection of the Right Undergraduate Major by Students Using Supervised Learning Techniques**](https://www.mdpi.com/2076-3417/11/22/10639)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/Selection_of_the_Right_Undergraduate_Major_.ipynb)|[Dataset](https://github.com/hussain0048/Research-Papers/blob/main/Placement_Data_Full_Class.csv)|---|
+| [**2022-Machine Learning-Driven Approach for a COVID-19 Warning System**](https://www.mdpi.com/2079-9292/11/23/3875) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/5_13_2020_Covid_LSTM.ipynb) [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Research-Papers/blob/main/AR_and_ARIMA_Models.ipynb) | [Dataset](https://github.com/hussain0048/Research-Papers/blob/main/data_cases1.csv) |---|
 
 ## 📚Chapter:2-**Regression**
 | Topic Name/Tutorial | Video | Code |
