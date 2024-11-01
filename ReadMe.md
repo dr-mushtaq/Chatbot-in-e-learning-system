@@ -98,6 +98,13 @@ Star this repo if you find it useful ⭐
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
+## 📚Chapter:3.2- **Dataset**
+ 
+|Title| URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
+|---|---|---|---|---|---|---|---|
+|**🌐1- Frequent Ask Question (General, CS201)-Online Sheet**| [1](https://docs.google.com/spreadsheets/d/1h9rXxXZz2jjP-PIgt0lSizx_4qcZnrby/edit?gid=1665551337#gid=1665551337)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
+
+
 
 ## 📚Chapter:3.3-**Tools and Techniques Details**
 | Topic Name/Tutorial | Video | Code |
