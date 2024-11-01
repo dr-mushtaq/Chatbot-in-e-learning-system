@@ -100,9 +100,9 @@ Star this repo if you find it useful ⭐
 
 ## 📚Chapter:3.2- **Dataset**
  
-|Title| URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
-|---|---|---|---|---|---|---|---|
-|**🌐1- Frequent Ask Question (General, CS201)-Online Sheet**| [1](https://docs.google.com/spreadsheets/d/1h9rXxXZz2jjP-PIgt0lSizx_4qcZnrby/edit?gid=1665551337#gid=1665551337)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
+|Title| URL| Details|
+|---|---|---|
+|**🌐1- Frequent Ask Question (General, CS201)-Online Sheet**| [1](https://docs.google.com/spreadsheets/d/1h9rXxXZz2jjP-PIgt0lSizx_4qcZnrby/edit?gid=1665551337#gid=1665551337)|
 
 
 
