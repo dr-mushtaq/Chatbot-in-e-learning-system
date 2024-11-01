@@ -89,7 +89,7 @@ Star this repo if you find it useful ⭐
   
 | Title | Code | Performance |Dataset | Researcher Name|Date|Status|
 |---|---|---|---|---|---|---|
-|**Development of Chatbot System to decrease workload in e-learning system**| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/Model_Training_Saad.ipynb) | ANN,LSTM|---|Saad|---|---|
+|**Development of Chatbot System to decrease workload in e-learning system**| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/Model_Training_Saad.ipynb) | ANN,LSTM|[intentsnew (6)](https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/intentsnew%20(6).json)|Saad|---|---|
 
 ## 📚Chapter:3.2- **Apps Details**
  
