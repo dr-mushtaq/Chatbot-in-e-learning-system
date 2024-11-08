@@ -1,6 +1,6 @@
 ## **Chatbot in e-learning System👋🛒**
 <p align="center">
-<img src="https://github.com/hussain0048/Machine-Learning/blob/master/Machine%20Leanring.png"></a>
+<img src="https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/Chatbot%20System.png"></a>
 </p>
 
 Welcome to the VU Chatbot System repository! 🚀
