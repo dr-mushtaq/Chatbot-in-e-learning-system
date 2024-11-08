@@ -99,11 +99,14 @@ Star this repo if you find it useful ⭐
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
 
+<details> 
+<summary> <h2>📚Chapter:Dataset </h2> </summary>
 ## 📚Chapter:3.2- **Dataset**
  
 |Title| URL| Details|
 |---|---|---|
 |**🌐1- Frequent Ask Question (General, CS201)-Online Sheet**| [1](https://docs.google.com/spreadsheets/d/1h9rXxXZz2jjP-PIgt0lSizx_4qcZnrby/edit?gid=1665551337#gid=1665551337)|
+</details>
 
 
 
@@ -128,15 +131,6 @@ Star this repo if you find it useful ⭐
 |[**🌐3-Handling missing data**](https://medium.com/@Coursesteach/supervised-learning-with-scikit-learn-part-7-handling-missing-data-b1b6263ce996)|[1](https://drive.google.com/file/d/1dN_YRnwuUf8QpUWeSnLEqHm-PtIWoPuF/view)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Data_Processing_in_Python_.ipynb)|
 </details>
 
-<details> 
-<summary> <h2>📚Chapter:5-Data </h2> </summary>
-   
-  
- - [**Chat with Dataframe - Streamlit Chatbot using Langchian Agent and Ollama | Generative AI | LLM**](https://www.youtube.com/watch?v=u3SGDvOVyO4)
- - [**Build a Large Language Model (From Scratch)**](https://github.com/rasbt/LLMs-from-scratch/tree/main) 
-- [**How to Make a Chatbot In Python? A Step-by-Step Guide with Source Code**](https://medium.com/@pies052022/how-to-make-a-chatbot-in-python-a-step-by-step-guide-with-source-code-c0f0b1c73378)
- - [**4 Chatbot Project with python**](https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37)
-- [**Awesome Chatbot Projects**](https://github.com/fendouai/Awesome-Chatbot)
 
 
 <details> 
