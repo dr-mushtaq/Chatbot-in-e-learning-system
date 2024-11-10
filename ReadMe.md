@@ -82,7 +82,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>Course 04 - 📚Machine Learning in Production </h2> </summary>
+<summary> <h2>📚Chapter 04 - Data </h2> </summary>
 
 ## 📚Chapter:3 -**Apps Deployment**
  | Topic Name/Tutorial | Video | Code |
