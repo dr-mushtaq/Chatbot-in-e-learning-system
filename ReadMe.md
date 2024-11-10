@@ -67,7 +67,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>📚Chapter: 02 -Model metrics benchmarks </h2> </summary>
+<summary> <h2>📚Chapter:2 -Model metrics benchmarks </h2> </summary>
 
    ##  📚Chapter: 3  **Model metrics benchmarks**
 
@@ -82,7 +82,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>📚Chapter 04 - Data </h2> </summary>
+<summary> <h2>📚Chapter 4- Data </h2> </summary>
 
 - [**Frequent Asked Question Sheet online**](https://docs.google.com/spreadsheets/d/1h9rXxXZz2jjP-PIgt0lSizx_4qcZnrby/edit?gid=1665551337#gid=1665551337)
 - [**Build a Large Language Model (From Scratch)**](https://github.com/rasbt/LLMs-from-scratch/tree/main) 
@@ -91,7 +91,7 @@ Star this repo if you find it useful ⭐
 </details>
 
 <details> 
-<summary> <h2>📚Chapter: 3 - 📚Implementation </h2> </summary>
+<summary> <h2>📚Chapter:5 - Implementation </h2> </summary>
  
   ## 📚Chapter:3.1-**Model Training**
   
@@ -106,14 +106,6 @@ Star this repo if you find it useful ⭐
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
 |---|---|---|---|---|---|---|---|
 |[**🌐1- Thesis**](https://medium.com/@Coursesteach/machine-learning-part-1-31bdf37404ee) | [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2]
-
-<details> 
-<summary> <h2>📚Chapter:Dataset </h2> </summary>
-|Title| URL| Details|
-|---|---|---|
-|**🌐1- Frequent Ask Question (General, CS201)-Online Sheet**| [1](https://docs.google.com/spreadsheets/d/1h9rXxXZz2jjP-PIgt0lSizx_4qcZnrby/edit?gid=1665551337#gid=1665551337)|
-</details>
-
 
 
 ## 📚Chapter:3.3-**Tools and Techniques Details**
