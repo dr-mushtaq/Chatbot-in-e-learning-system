@@ -81,6 +81,15 @@ Star this repo if you find it useful ⭐
 | RoBERTa| 0.9230769230769231| 0.9230769230769231| 0.9230769230769231	| 0.9148936170212766| 24968.250607967377| 68.44634509086609|
 </details>
 
+<details> 
+<summary> <h2>Course 04 - 📚Machine Learning in Production </h2> </summary>
+
+## 📚Chapter:3 -**Apps Deployment**
+ | Topic Name/Tutorial | Video | Code |
+|---|---|---|
+|[**🌐1-How to Deploy an AI App Locally: Step-by-Step Guide for Beginners)**](https://medium.com/@Coursesteach/how-to-deploy-an-ai-app-locally-step-by-step-guide-for-beginners-ml-in-production-p1-59bef2f36b7f)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+
+</details>
 
 <details> 
 <summary> <h2>📚Chapter: 3 - 📚Implementation </h2> </summary>
