@@ -84,10 +84,9 @@ Star this repo if you find it useful ⭐
 <details> 
 <summary> <h2>📚Chapter 04 - Data </h2> </summary>
 
-## 📚Chapter:3 -**Apps Deployment**
- | Topic Name/Tutorial | Video | Code |
-|---|---|---|
-|[**🌐1-How to Deploy an AI App Locally: Step-by-Step Guide for Beginners)**](https://medium.com/@Coursesteach/how-to-deploy-an-ai-app-locally-step-by-step-guide-for-beginners-ml-in-production-p1-59bef2f36b7f)|---|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Machine_Learning.ipynb)|
+- [**Chat with Dataframe - Streamlit Chatbot using Langchian Agent and Ollama | Generative AI | LLM**](https://www.youtube.com/watch?v=u3SGDvOVyO4)
+ - [**Build a Large Language Model (From Scratch)**](https://github.com/rasbt/LLMs-from-scratch/tree/main) 
+- [**How to Make a Chatbot In Python? A Step-by-Step Guide with Source Code**](https://medium.com/@pies052022/how-to-make-a-chatbot-in-python-a-step-by-step-guide-with-source-code-c0f0b1c73378)
 
 </details>
 
