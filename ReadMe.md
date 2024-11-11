@@ -85,7 +85,7 @@ Star this repo if you find it useful ⭐
 <summary> <h2>📚Chapter 4- Data </h2> </summary>
 
 - [**Frequent Asked Question Sheet online**](https://docs.google.com/spreadsheets/d/1h9rXxXZz2jjP-PIgt0lSizx_4qcZnrby/edit?gid=1665551337#gid=1665551337)
-- [**Build a Large Language Model (From Scratch)**](https://github.com/rasbt/LLMs-from-scratch/tree/main) 
+- [**Rawa Data from VU**](https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/Information%20For%20Call%20Centre_19-1-2024.docx) 
 - [**How to Make a Chatbot In Python? A Step-by-Step Guide with Source Code**](https://medium.com/@pies052022/how-to-make-a-chatbot-in-python-a-step-by-step-guide-with-source-code-c0f0b1c73378)
 
 </details>
