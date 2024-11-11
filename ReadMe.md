@@ -199,7 +199,7 @@ Explore cutting-edge tools and Python libraries, access insightful slides and so
 
 
 ## **✨Top Contributors**
-We would love your help in making this repository even better! If you know of an amazing AI course that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
+We would love your help in making this repository even better! If you know of an amazing Chatbot course and Resource that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
 
                        Together, let's make this the best AI learning hub website! 🚀
 
