@@ -180,7 +180,7 @@ Star this repo if you find it useful ⭐
 >
 ## ⚙️ Things to Note
 
-* Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
+* First Fork this repository and then sent request before sent request kindly share your result to me.
 * You can only work on issues that have been assigned to you.
 * If you want to contribute the algorithm, it's preferrable that you create a new issue before making a PR and link your PR to that issue.
 * If you have modified/added code work, make sure the code compiles before submitting.
