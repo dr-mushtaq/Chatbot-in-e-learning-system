@@ -161,6 +161,7 @@ Star this repo if you find it useful ⭐
 -  [**Running Flask App On Colab With Ngrok| [ Latest Way ]**](https://www.youtube.com/watch?v=bHtxDiIl0wg)
 -  [**Deploy Streamlit app on Google Colaboratory as public app | Ngrok | Python**](https://www.youtube.com/watch?v=Y-lUz7npEGo)
  -  [**Building a Simple Chatbot with Python and Transformers**](https://jasminbharadiya.medium.com/building-a-simple-chatbot-with-python-and-transformers-875aec2f05d8)
+ -  [**Let's reproduce GPT-2 (124M)**](https://www.youtube.com/watch?v=l8pRSuU81PU)
 </details>
 
 
