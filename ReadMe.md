@@ -163,6 +163,7 @@ Star this repo if you find it useful ⭐
  -  [**Building a Simple Chatbot with Python and Transformers**](https://jasminbharadiya.medium.com/building-a-simple-chatbot-with-python-and-transformers-875aec2f05d8)
  -  [**Let's reproduce GPT-2 (124M)**](https://www.youtube.com/watch?v=l8pRSuU81PU)
  -  [**Web-LLM Assistant: Bridging Local AI Models With Real-Time Web Intelligence**](https://pub.towardsai.net/web-llm-assistant-bridging-local-ai-models-with-real-time-web-intelligence-9376b0ba1c38)
+ -  [**Building Your First Chatbot: A Hands-On Tutorial with Open-Source Tools**](https://machinelearningmastery.com/building-your-first-chatbot/?utm_source=drip&utm_medium=email&utm_campaign=MLM+Newsletter+November+22%2C+2024&utm_content=Building+Your+First+Chatbot+with+Open-Source+Tools+%E2%80%A2+Demystifying+Ensemble+Methods)
 </details>
 
 
