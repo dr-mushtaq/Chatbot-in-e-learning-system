@@ -35,13 +35,13 @@ The system consists of three main components:
 
 - API-driven architecture for seamless integration.
 
-Front-End Chatbot Interface
+2- **Front-End Chatbot Interface**
 
-Web-based chatbot UI using Streamlit, Flask, or Django.
+- Web-based chatbot UI using Streamlit, Flask, or Django.
 
-Interactive and user-friendly experience for students.
+- Interactive and user-friendly experience for students.
 
-Handles question-answering, course guidance, and academic support.
+- Handles question-answering, course guidance, and academic support.
 
 Data & Analytics Module
 
