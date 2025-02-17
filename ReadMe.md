@@ -1,4 +1,4 @@
-## **Chatbot in e-learning System👋🛒**
+## **Chatbot in e-Learning System 🎓🤖**
 <p align="center">
 <img src="https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/Chatbot%20System.png"></a>
 </p>
@@ -7,9 +7,9 @@ Welcome to the VU Chatbot System repository! 🚀
 
 <a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/VU-Chatbot-System"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
 
-## **Overview👋🛒**
+## **Overview 🎯**
 
-The VU Chatbot System is an advanced AI-powered virtual assistant designed to enhance user interaction and streamline information retrieval. Whether you're a student, educator, or developer, our chatbot provides intuitive and efficient solutions tailored to your needs.
+The VU Chatbot System is an AI-powered virtual assistant designed to enhance user interaction in e-learning environments. It provides personalized assistance to students and educators, streamlining information retrieval, answering queries, and facilitating academic discussions.
 
 ## **Features👋🛒**
 
