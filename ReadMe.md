@@ -51,17 +51,39 @@ The system consists of three main components:
 
 - Supports learning analytics for educators.
 
-## **Features👋🛒**
+## **Key Features 📌**
 
-**1- Natural Language Processing:** Engage in smooth, human-like conversations with our state-of-the-art NLP capabilities.
+1- **AI-Driven Learning Assistant**
 
-**2- Personalized Assistance**: Receive personalized responses based on user profiles and interaction history.
+- Engages students in natural conversations.
 
-**3- Multi-Platform Support:**: Integrate seamlessly with various platforms including web, mobile, and social media.
+- Answers course-related queries using context-aware NLP models.
 
-**4- Extensible Architecture:**: Easily add new features and functionalities with our modular design.
+- Provides recommendations for learning resources and study materials.
 
-**5- Real-Time Analytics:**: Monitor and analyze user interactions to continually improve the chatbot experience..
+2- **Multi-Platform Support**
+
+- Web-based chatbot, accessible via a university portal.
+
+- Mobile-friendly interface for real-time interactions.
+
+- Potential social media and messaging app integration.
+
+3- **Customizable & Scalable**
+
+- Easily extendable to include more subjects and academic disciplines.
+
+- Can integrate with university LMS (Learning Management Systems).
+
+- Adaptive learning module for personalized student support.
+
+4-**Data-Driven Insights**
+
+- Tracks frequently asked questions to improve response quality.
+
+- Provides real-time usage analytics and performance monitoring.
+
+- Helps educators identify knowledge gaps and improve teaching strategies.
 
 ## **Contributing🙌**
 
