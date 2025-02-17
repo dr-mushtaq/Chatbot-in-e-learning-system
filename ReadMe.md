@@ -157,7 +157,7 @@ For inquiries and contributions, contact Dr. Mushtaq at:
 
 - Email: mushtaqmsit@gmail.com, Skype ID:themushtaq48
 
-- LinkedIn: [Company LinkedIn](https://www.linkedin.com/in/mushtaq-hussain-21417814/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mushtaq-hussain-21417814/)
 
 - YouTube: [CoursesTeach](https://www.youtube.com/@coursesteach-mv5si/videos)
 
