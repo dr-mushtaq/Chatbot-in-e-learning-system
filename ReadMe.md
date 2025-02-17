@@ -85,6 +85,21 @@ The system consists of three main components:
 
 - Helps educators identify knowledge gaps and improve teaching strategies.
 
+## **Technology Stack 📂**
+
+1- **Backend (AI/NLP)**: Transformers (BERT, GPT), Scikit-learn
+
+2- **Chatbot Development**: Rasa NLU, Dialogflow, OpenAI GPT API
+
+3- **Front-End UI**: Streamlit, Flask, Django
+
+4- **Database**: PostgreSQL, Firebase, MySQL
+
+5- **Hosting**: AWS, Heroku, Google Cloud
+
+6- **Integration**: WhatsApp, Telegram, Discord API (for chatbot communication)
+
+
 ## **Contributing🙌**
 
 We welcome contributions from the community! Whether it's fixing a bug, adding a new algorithm implementation, or improving documentation, your contributions are valuable. Please contact on my **skype ID: themushtaq48** for guidelines on how to contribute.
