@@ -43,13 +43,13 @@ The system consists of three main components:
 
 - Handles question-answering, course guidance, and academic support.
 
-Data & Analytics Module
+3- **Data & Analytics Module**
 
-Tracks student queries, chatbot performance, and response accuracy.
+- Tracks student queries, chatbot performance, and response accuracy.
 
-Provides insights for continuous model improvement.
+- Provides insights for continuous model improvement.
 
-Supports learning analytics for educators.
+- Supports learning analytics for educators.
 
 ## **Features👋🛒**
 
