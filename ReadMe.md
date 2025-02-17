@@ -131,6 +131,15 @@ The system consists of three main components:
 
 - Introduce voice-based interactions using Speech-to-Text.
 
+## **Sustainability & Future Roadmap 🤝**
+
+- Develop subscription-based models for advanced features.
+
+- Partner with universities and e-learning platforms.
+
+- Implement AI-driven personalized tutoring.
+
+- Expand integration to VR-based learning environments.
 
 ## **Contributing🙌**
 
