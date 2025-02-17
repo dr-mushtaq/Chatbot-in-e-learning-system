@@ -5,7 +5,7 @@
 
 Welcome to the VU Chatbot System repository! 🚀
 
-<a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/VU-Chatbot-System"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
+<a href="https://app.commanddash.io/agent?github=https://github.com/dr-mushtaq/Chatbot-in-e-learning-system"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
 
 ## **Overview 🎯**
 
