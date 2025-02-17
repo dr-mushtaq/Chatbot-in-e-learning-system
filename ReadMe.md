@@ -99,6 +99,38 @@ The system consists of three main components:
 
 6- **Integration**: WhatsApp, Telegram, Discord API (for chatbot communication)
 
+## **Development Plan 🔍**
+
+Phase 1: Prototype Development (2–4 weeks)
+
+Train NLP model using educational datasets.
+
+Develop a basic chatbot interface.
+
+Deploy API for question-answering module.
+
+Conduct initial testing with students.
+
+Phase 2: Expansion (1–2 months)
+
+Improve AI responses with enhanced data collection.
+
+Integrate with university LMS and mobile apps.
+
+Conduct beta testing with a larger student audience.
+
+Implement real-time performance tracking.
+
+Phase 3: Full Deployment (3+ months)
+
+Roll out full-featured chatbot for academic assistance.
+
+Optimize model performance with feedback-based training.
+
+Expand to support multiple languages.
+
+Introduce voice-based interactions using Speech-to-Text.
+
 
 ## **Contributing🙌**
 
