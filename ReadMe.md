@@ -15,7 +15,7 @@ The VU Chatbot System is an AI-powered virtual assistant designed to enhance use
 
 1- Implement **Natural Language Processing (NLP)** to enable smooth and intelligent conversations.
 
-2- Provide personalized learning assistance based on user queries and academic profiles.
+2- Provide **personalized learning assistance** based on user queries and academic profiles.
 
 3- Support multi-platform integration, including web, mobile, and social media.
 
