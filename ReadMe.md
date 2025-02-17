@@ -141,27 +141,27 @@ The system consists of three main components:
 
 - Expand integration to VR-based learning environments.
 
-## **Contributing🙌**
+## **Next Steps 🚀**
 
-We welcome contributions from the community! Whether it's fixing a bug, adding a new algorithm implementation, or improving documentation, your contributions are valuable. Please contact on my **skype ID: themushtaq48** for guidelines on how to contribute.
+1- Deploy AI model and chatbot interface.
 
-## **📬 Support**
-   If you encounter any issues or have questions, feel free to open an issue on GitHub or contact us at mushtaqmsit@gmail.com.
+2- Test with a small group of students and educators.
+
+3- Refine chatbot responses and NLP accuracy.
+
+4- Expand to wider student networks and enhance chatbot capabilities.
 
 ## **📬Contact**
    
-   If you want to contact me, you can reach me through social handles.
-   
-[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@coursesteach-mv5si/videos)
-[![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://medium.com/@Coursesteach)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/90909828/admin/dashboard/)
-[![](https://img.shields.io/badge/Twitter-darkgreen?&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/Mushtaq03361498)
-[![](https://img.shields.io/badge/whatsapp-32012F?style=plastic&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
-[![](https://img.shields.io/badge/Kaggle-darkblue?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/organizations/courseteach/invite/4c839a825abc44c9a1aebd8e9cc8d94c)
+For inquiries and contributions, contact Dr. Mushtaq at:
 
-Thank you for choosing VU Chatbot System! Together, let's make conversations smarter and more engaging. 🌟
+- Email: mushtaqmsit@gmail.com, Skype ID:themushtaq48
 
-🙏 Special thanks 🙏 to our Virtual University of Pakistan students, reviewers, and content contributors, notably Dr Said Nabi
+- LinkedIn: [Company LinkedIn](https://www.linkedin.com/in/mushtaq-hussain-21417814/)
+
+- YouTube: [CoursesTeach](https://www.youtube.com/@coursesteach-mv5si/videos)
+
+- Website: [CoursesTeach](https://coursesteach.com/)
 
 Star this repo if you find it useful ⭐
 
