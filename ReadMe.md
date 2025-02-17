@@ -23,6 +23,34 @@ The VU Chatbot System is an AI-powered virtual assistant designed to enhance use
 
 5- Enable **modular expansion** to integrate new features and enhance adaptability.
 
+## **System Architecture 🎯**
+
+The system consists of three main components:
+
+1- **Backend: AI-Powered NLP Model**
+
+- Utilizes Transformers, BERT, or GPT-based NLP models.
+
+- Machine learning models trained on educational data.
+
+- API-driven architecture for seamless integration.
+
+Front-End Chatbot Interface
+
+Web-based chatbot UI using Streamlit, Flask, or Django.
+
+Interactive and user-friendly experience for students.
+
+Handles question-answering, course guidance, and academic support.
+
+Data & Analytics Module
+
+Tracks student queries, chatbot performance, and response accuracy.
+
+Provides insights for continuous model improvement.
+
+Supports learning analytics for educators.
+
 ## **Features👋🛒**
 
 **1- Natural Language Processing:** Engage in smooth, human-like conversations with our state-of-the-art NLP capabilities.
