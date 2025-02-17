@@ -101,35 +101,35 @@ The system consists of three main components:
 
 ## **Development Plan 🔍**
 
-Phase 1: Prototype Development (2–4 weeks)
+**Phase 1: Prototype Development (2–4 weeks)**
 
-Train NLP model using educational datasets.
+- Train NLP model using educational datasets.
 
-Develop a basic chatbot interface.
+- Develop a basic chatbot interface.
 
-Deploy API for question-answering module.
+- Deploy API for question-answering module.
 
-Conduct initial testing with students.
+- Conduct initial testing with students.
 
-Phase 2: Expansion (1–2 months)
+**Phase 2: Expansion (1–2 months)**
 
-Improve AI responses with enhanced data collection.
+- Improve AI responses with enhanced data collection.
 
-Integrate with university LMS and mobile apps.
+- Integrate with university LMS and mobile apps.
 
-Conduct beta testing with a larger student audience.
+- Conduct beta testing with a larger student audience.
 
-Implement real-time performance tracking.
+- Implement real-time performance tracking.
 
-Phase 3: Full Deployment (3+ months)
+**Phase 3: Full Deployment (3+ months)**
 
-Roll out full-featured chatbot for academic assistance.
+- Roll out full-featured chatbot for academic assistance.
 
-Optimize model performance with feedback-based training.
+- Optimize model performance with feedback-based training.
 
-Expand to support multiple languages.
+- Expand to support multiple languages.
 
-Introduce voice-based interactions using Speech-to-Text.
+- Introduce voice-based interactions using Speech-to-Text.
 
 
 ## **Contributing🙌**
