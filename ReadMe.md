@@ -11,6 +11,18 @@ Welcome to the VU Chatbot System repository! 🚀
 
 The VU Chatbot System is an AI-powered virtual assistant designed to enhance user interaction in e-learning environments. It provides personalized assistance to students and educators, streamlining information retrieval, answering queries, and facilitating academic discussions.
 
+## **Objectives**
+
+1- Implement Natural Language Processing (NLP) to enable smooth and intelligent conversations.
+
+2- Provide personalized learning assistance based on user queries and academic profiles.
+
+3- Support multi-platform integration, including web, mobile, and social media.
+
+4- Offer real-time analytics for monitoring chatbot interactions and improving performance.
+
+5- Enable modular expansion to integrate new features and enhance adaptability.
+
 ## **Features👋🛒**
 
 **1- Natural Language Processing:** Engage in smooth, human-like conversations with our state-of-the-art NLP capabilities.
