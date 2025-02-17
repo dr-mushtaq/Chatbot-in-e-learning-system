@@ -163,6 +163,8 @@ For inquiries and contributions, contact Dr. Mushtaq at:
 
 - Website: [CoursesTeach](https://coursesteach.com/)
 
+We welcome contributions from developers, researchers, and educators! Let's revolutionize e-learning with AI-driven assistance. 🚀
+
 Star this repo if you find it useful ⭐
 
 <details> 
