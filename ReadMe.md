@@ -285,6 +285,8 @@ Star this repo if you find it useful ⭐
  -  [**Web-LLM Assistant: Bridging Local AI Models With Real-Time Web Intelligence**](https://pub.towardsai.net/web-llm-assistant-bridging-local-ai-models-with-real-time-web-intelligence-9376b0ba1c38)
  -  [**Building Your First Chatbot: A Hands-On Tutorial with Open-Source Tools**](https://machinelearningmastery.com/building-your-first-chatbot/?utm_source=drip&utm_medium=email&utm_campaign=MLM+Newsletter+November+22%2C+2024&utm_content=Building+Your+First+Chatbot+with+Open-Source+Tools+%E2%80%A2+Demystifying+Ensemble+Methods)
 </details>
+-  [**Building an End-to-End FAQ Chatbot with Continuous Training & Deployment: Pre RAG Era**](https://substack.com/home/post/p-158016922)
+</details>
 
 
 ## 💻 Workflow:
