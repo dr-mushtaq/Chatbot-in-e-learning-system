@@ -87,7 +87,7 @@ The system consists of three main components:
 
 ## **Technology Stack 📂**
 
-1- **Backend (AI/NLP)**: Transformers (BERT, GPT), Scikit-learn
+1- **Backend (AI/NLP)**: Transformers (BERT, GPT,RAG,RAAS), Scikit-learn
 
 2- **Chatbot Development**: Rasa NLU, Dialogflow, OpenAI GPT API
 
