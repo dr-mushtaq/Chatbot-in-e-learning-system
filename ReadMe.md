@@ -221,6 +221,8 @@ Star this repo if you find it useful ⭐
 |**B14-Extraneous Comment Management (ECM) Elearning**| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/Model_Training.ipynb) | ANN=0.98|[intentsnew](https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/intents.json)|Izhar, Mazhar etc|3-Augest-2023|☑|
 |**Development of Chatbot System to decrease workload in e-learning system**| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/Model_Training_Samman_V1.ipynb) | ANN=0.98|[intents_Samman_V1](https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/intents_Samman_V1.json)|Samman|3-Augest-2023|InProgress|
 
+|**Development of Chatbot System to decrease workload in e-learning system**| [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/Model_Training_Samman_V1.ipynb) | LSTM,ANN,RF,BERT|[intents_Samman_V1](https://github.com/dr-mushtaq/Chatbot-in-e-learning-system/blob/main/intents_Samman_V1.json)|Samman|3-Augest-2023|InProgress|
+
 ## 📚Chapter:3.2- **Apps Details**
  
 |Title| Public_URL| Deployed Repository link| Tools Details|Notbook|Dataset|Medium|Diagram|
